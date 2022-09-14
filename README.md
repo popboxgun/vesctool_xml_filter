@@ -8,4 +8,4 @@
         
             Set-ExecutionPolicy Bypass
             
-    - Select export .XML App Config, it will output a filtered version in the same folder as the original .XML APP config
+    - Select the App Config .XML, it will then output a filtered version in the same folder as the original APP config .XML

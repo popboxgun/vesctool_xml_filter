@@ -2,6 +2,8 @@
 
   Instructions
   
+    - Download VESXTool_XML_filter.ps1 and filter_list.txt file.
+    
     - Run file in Powershell (double clicking might work).  Keep filter_list.txt in same folder as .ps1 file
     
         - If the powershell gives an error run the following in a PowerShell Window
